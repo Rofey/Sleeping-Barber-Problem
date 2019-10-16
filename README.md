@@ -16,6 +16,6 @@ $ apt-get install gcc
 Downloading python 
 
 ```
-apt-get install python-pip python-dev libffl-dev libssl-dev libxml2-dev libxslt1-dev libjpeg8-dev zlibig-dev
+apt-get install python-pip python-dev libffi-dev libssl-dev libxml2-dev libxslt1-dev libjpeg8-dev zlib1g-dev
 apt-get install libncursesw5-dev
 ```
